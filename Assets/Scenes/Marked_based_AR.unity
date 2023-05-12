@@ -2040,7 +2040,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SerializedLibrary: {fileID: 11400000, guid: 6740ec8ad026507438a03446ff5fa146,
+  m_SerializedLibrary: {fileID: 11400000, guid: 415f9d3cd1fd9424c99c2bc03c8a9f69,
     type: 2}
   m_MaxNumberOfMovingImages: 0
   m_TrackedImagePrefab: {fileID: 4004629372445699426, guid: b4f1d91b652b31f4690331b756a7d005,
